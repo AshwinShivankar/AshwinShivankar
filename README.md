@@ -1,6 +1,6 @@
 Hello, World!
 
-- 👋 Hi, I’m @AshwinShivankar
+-  I’m @AshwinShivankar
 
 I am a Full-Stack Developer, I can Design and build a website using HTML, CSS, JAVASCRIPT, Node.js, React.js, Flask, and MongoDB as databases. I have built Websites using these technologies. I can make simple apps & games by using Python. Currently, I am learning Django.
 
