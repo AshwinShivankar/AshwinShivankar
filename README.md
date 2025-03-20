@@ -21,17 +21,21 @@ I design and build modern, responsive websites using a comprehensive tech stack:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+**Cloud Services:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
 ## 🚀 What I Do
 
 - Develop responsive web applications
 - Create intuitive user interfaces
 - Build robust backend systems
 - Design and implement database solutions
+- Deploy and manage cloud infrastructure on AWS
 - Continuously learn and improve my skills
 
 ## 🌱 Always Learning
 
-I'm passionate about expanding my knowledge and staying current with the latest technologies in web development.
+I'm passionate about expanding my knowledge and staying current with the latest technologies in web development and cloud computing.
 
 ## 📫 Connect With Me
 
